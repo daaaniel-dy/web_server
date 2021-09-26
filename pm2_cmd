@@ -1,0 +1,5 @@
+- pm2 log not to refresh
+pm2 start main.js --watch --ignore-watch="data/* sessions/*"  --no-daemon
+
+- turn off pm2
+pm2 kill
