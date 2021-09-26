@@ -1,5 +1,0 @@
-- mariadb
-C:/Bitnami/wampstack-8.0.11-0/mariadb/bin
-
-- execute
-./mysql -uroot -p
